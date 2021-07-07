@@ -1,0 +1,15 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luciano Costa Mota', '123.321.456-99', 30.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Nélio Alves', '458.321.456-78', 300.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucas Costa Mota', '123.321.154-15', 50.500, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Thainá Marinho', '852.321.456-65', 15.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Lucas dos Santos', '123.741.456-02', 87.900, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jordeson Rairon', '159.321.456-35', 95.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria das Graças', '123.145.456-52', 78.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joelson Sousa', '123.321.456-55', 32.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Talita Marinho', '123.321.456-65', 959.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('João Arthur Marinho', '123.321.456-75', 398.152, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro Marinho', '123.321.456-78', 151.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Mitchel Filiphe Alencar', '123.321.456-00', 78.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Rute Alencar', '223.321.456-45', 78.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Alycia Salomão', '123.685.456-32', 85.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Denilce Salomão', '123.321.168-65', 98.000, TIMESTAMP WITH TIME ZONE '2021-07-04T09:10:00Z', 2);
